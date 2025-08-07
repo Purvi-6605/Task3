@@ -1,6 +1,6 @@
 # Task3: Simple & Multiple Linear Regression
 
-** Overview**:
+**Overview**:
  
 This repository contains the solution for Task 3 of the Elevate AI & ML Internship. The objective of this task was to implement and understand simple and multiple linear regression using Python and scikit-learn.
 
@@ -39,8 +39,8 @@ Calculated Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score to
 Plotted the regression line using Matplotlib.
 
 Interpreted coefficients to understand feature impact.
-**
-How to Run**
+
+**How to Run**
 
 Install required libraries: pandas, matplotlib, scikit-learn.
 
@@ -48,7 +48,7 @@ Run the Python script or Jupyter notebook.
 
 View model evaluation and regression plots.
 
-** What I Learned**
+**What I Learned**
 
 The difference between simple and multiple regression.
 
@@ -58,6 +58,6 @@ The meaning of regression coefficients.
 
 How to interpret model accuracy using error metrics.
 
-** Submission**
+**Submission**
 
 This repository is submitted as part of the Elevate AI & ML Internship - Task 3.
